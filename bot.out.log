@@ -1,0 +1,355 @@
+2026-10-11 18:53:40,785 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-10-11 18:53:40,788 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-11 18:53:40,790 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-11 18:53:40,792 | INFO | logging in using static token
+2026-10-11 18:53:41,822 | INFO | Shard ID None has connected to Gateway (Session ID: 3d78da2fe2fad817e536646f856604ae).
+2026-10-11 18:53:43,838 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-11 18:54:11,278 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-11 18:54:11,489 | INFO | Listo. El bot ya esta operando.
+2026-10-11 18:54:15,867 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-11 18:54:16,745 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-11 18:54:17,205 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 18:54:17,206 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-11 18:54:17,206 | INFO | Mantenimiento automatico cada 300 s
+2026-10-11 18:59:18,606 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:04:19,948 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:09:21,267 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:14:22,503 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:19:24,390 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:24:25,638 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:29:27,022 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:34:28,779 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:39:31,882 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:44:33,088 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:49:34,896 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:54:36,310 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 19:59:37,509 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:04:38,904 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:09:40,973 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:14:42,689 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:19:44,527 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:24:45,839 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:29:47,130 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:34:49,048 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:39:50,288 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:44:51,658 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:49:52,959 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:54:54,441 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 20:59:56,069 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 21:04:57,358 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 21:09:58,582 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 21:14:59,882 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 21:20:01,206 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 21:25:02,639 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 21:30:04,313 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 21:35:06,196 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 21:40:07,806 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 21:45:09,538 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 21:50:11,012 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 21:55:12,429 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:00:13,772 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:05:15,125 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:10:16,396 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:15:17,679 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:20:18,989 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:25:20,515 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:30:21,817 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:35:23,154 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:40:24,516 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:45:26,710 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:48:19,764 | INFO | Shard ID None has successfully RESUMED session 3d78da2fe2fad817e536646f856604ae.
+2026-10-11 22:50:28,017 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 22:55:29,484 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:00:31,385 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:05:32,761 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:10:34,035 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:15:35,794 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:20:37,254 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:24:58,804 | INFO | Shard ID None has successfully RESUMED session 3d78da2fe2fad817e536646f856604ae.
+2026-10-11 23:25:38,714 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:30:40,482 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:35:41,634 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:40:43,028 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:45:44,463 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:50:45,750 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-11 23:55:47,044 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:00:48,427 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:05:49,779 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:10:52,108 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:15:53,561 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:20:54,866 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:25:56,168 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:30:43,932 | INFO | Shard ID None has successfully RESUMED session 3d78da2fe2fad817e536646f856604ae.
+2026-10-12 00:30:57,454 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:35:58,804 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:41:00,072 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:46:01,281 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:51:03,310 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 00:56:04,823 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 01:01:06,213 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 01:06:07,415 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 01:11:08,649 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 01:16:09,964 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 01:21:11,530 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 01:26:12,961 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 01:31:14,250 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 01:36:15,491 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 01:41:16,828 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-12 01:46:18,145 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 19:52:45,782 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-10-21 19:52:45,782 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-21 19:52:45,785 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-21 19:52:45,785 | INFO | logging in using static token
+2026-10-21 19:52:46,849 | INFO | Shard ID None has connected to Gateway (Session ID: 40e615b31a6e196b784079c5f6b12a16).
+2026-10-21 19:52:48,859 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-21 19:52:58,416 | INFO | smallcaps: 1 renombrados, 0 fallos
+2026-10-21 19:53:16,407 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-21 19:53:16,603 | INFO | Listo. El bot ya esta operando.
+2026-10-21 19:53:21,420 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-21 19:53:22,163 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-21 19:53:22,767 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 19:53:22,768 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-21 19:53:22,768 | INFO | Mantenimiento automatico cada 300 s
+2026-10-21 19:55:43,281 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-10-21 19:55:43,281 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-21 19:55:43,284 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-21 19:55:43,284 | INFO | logging in using static token
+2026-10-21 19:55:44,382 | INFO | Shard ID None has connected to Gateway (Session ID: b39c7a3865a81ed678d2fa9457209ef9).
+2026-10-21 19:55:46,404 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-21 19:56:13,923 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-21 19:56:14,149 | INFO | Listo. El bot ya esta operando.
+2026-10-21 19:56:18,913 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-21 19:56:19,680 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-21 19:56:20,287 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 19:56:20,287 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-21 19:56:20,287 | INFO | Mantenimiento automatico cada 300 s
+2026-10-21 20:01:21,934 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 20:06:16,183 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-10-21 20:06:16,184 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-21 20:06:16,186 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-21 20:06:16,186 | INFO | logging in using static token
+2026-10-21 20:06:17,153 | INFO | Shard ID None has connected to Gateway (Session ID: 9fc434bf1ab0be7d6eb2350be09ecd85).
+2026-10-21 20:06:19,169 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-21 20:06:46,758 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-21 20:06:47,027 | INFO | Listo. El bot ya esta operando.
+2026-10-21 20:06:52,227 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-21 20:06:53,149 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-21 20:06:53,769 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 20:06:53,770 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-21 20:06:53,770 | INFO | Mantenimiento automatico cada 300 s
+2026-10-21 20:11:55,189 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 20:14:19,980 | INFO | Stream publicado por 93.xepf en #👾┋sᴛʀᴇᴀᴍs: hola
+2026-10-21 20:16:56,835 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 20:21:58,174 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 20:26:59,726 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 20:32:01,136 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 20:37:02,441 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 20:42:04,165 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 20:47:05,967 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 20:52:07,302 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 20:57:08,630 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:02:10,026 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:07:11,421 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:12:12,758 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:17:14,167 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:22:15,803 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:27:17,162 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:32:18,519 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:37:20,394 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:40:05,564 | INFO | Shard ID None has successfully RESUMED session 9fc434bf1ab0be7d6eb2350be09ecd85.
+2026-10-21 21:42:21,836 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:47:23,314 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:52:25,150 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-21 21:57:26,712 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 15:57:44,899 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-10-22 15:57:44,900 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-22 15:57:44,902 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-22 15:57:44,902 | INFO | logging in using static token
+2026-10-22 15:57:45,952 | INFO | Shard ID None has connected to Gateway (Session ID: f73693483bf8a9b3219c7005ac1e8815).
+2026-10-22 15:57:47,973 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-22 15:58:15,488 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-22 15:58:15,725 | INFO | Listo. El bot ya esta operando.
+2026-10-22 15:58:20,679 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-22 15:58:21,634 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-22 15:58:22,280 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 15:58:22,281 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-22 15:58:22,281 | INFO | Mantenimiento automatico cada 300 s
+2026-10-22 16:03:23,720 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 16:08:25,060 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 16:13:26,472 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 16:18:28,249 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 16:23:29,691 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 16:28:31,424 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 16:33:32,962 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 16:38:34,408 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 16:43:35,994 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 16:48:37,859 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 16:53:39,496 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 16:58:41,149 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 17:03:42,755 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 17:08:44,141 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 17:13:45,569 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 17:18:47,354 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 17:23:48,695 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 17:28:50,126 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 17:33:51,478 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-22 17:38:53,003 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 08:29:09,974 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-10-23 08:29:09,975 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-23 08:29:09,976 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-23 08:29:09,977 | INFO | logging in using static token
+2026-10-23 08:29:11,247 | INFO | Shard ID None has connected to Gateway (Session ID: 0eb735fd15b90a061b93a39940b0b263).
+2026-10-23 08:29:13,259 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-23 08:29:40,623 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-23 08:29:41,196 | INFO | Listo. El bot ya esta operando.
+2026-10-23 08:29:42,663 | INFO | Shard ID None has successfully RESUMED session 0eb735fd15b90a061b93a39940b0b263.
+2026-10-23 08:29:48,154 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-23 08:29:49,331 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-23 08:29:50,034 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 08:29:50,034 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-23 08:29:50,034 | INFO | Mantenimiento automatico cada 300 s
+2026-10-23 08:30:18,682 | INFO | Shard ID None has successfully RESUMED session 0eb735fd15b90a061b93a39940b0b263.
+2026-10-23 08:34:51,391 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 08:39:52,639 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 08:44:54,224 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 08:49:55,436 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 08:54:57,173 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 16:16:34,848 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-10-23 16:16:34,849 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-23 16:16:34,851 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-23 16:16:34,851 | INFO | logging in using static token
+2026-10-23 16:16:42,918 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-10-23 16:16:42,918 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-23 16:16:42,920 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-23 16:16:42,920 | INFO | logging in using static token
+2026-10-23 16:16:44,533 | INFO | Shard ID None has connected to Gateway (Session ID: c2ddae6f4f8d881678c23940442c3623).
+2026-10-23 16:16:46,603 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-23 16:17:01,159 | INFO | Shard ID None has successfully RESUMED session c2ddae6f4f8d881678c23940442c3623.
+2026-10-23 16:17:13,768 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-23 16:17:14,005 | INFO | Listo. El bot ya esta operando.
+2026-10-23 16:17:19,148 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-23 16:17:19,910 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-23 16:17:20,517 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 16:17:20,518 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-23 16:17:20,518 | INFO | Mantenimiento automatico cada 300 s
+2026-10-23 16:22:22,396 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 16:27:23,658 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 16:32:24,940 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 16:37:26,337 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 16:42:27,662 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 16:47:28,896 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 16:52:30,383 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 16:57:31,903 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 17:02:33,402 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 17:07:34,818 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 21:45:14,206 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-23 21:45:14,209 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-23 21:45:14,209 | INFO | logging in using static token
+2026-10-23 21:45:21,418 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-23 21:45:21,419 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-23 21:45:21,419 | INFO | logging in using static token
+2026-10-23 21:45:23,100 | INFO | Shard ID None has connected to Gateway (Session ID: cc08fb91cf76dc27cf2e2ecbf54e8fe6).
+2026-10-23 21:45:25,112 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-23 21:45:52,479 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-23 21:45:52,692 | INFO | Listo. El bot ya esta operando.
+2026-10-23 21:45:57,135 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-23 21:45:57,923 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-23 21:45:58,454 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 21:45:58,454 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-23 21:45:58,454 | INFO | Mantenimiento automatico cada 300 s
+2026-10-23 21:50:59,866 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 21:56:01,232 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 22:01:03,116 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 22:06:04,377 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 22:11:05,823 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 22:16:07,213 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 23:02:46,333 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-23 23:02:46,337 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-23 23:02:46,338 | INFO | logging in using static token
+2026-10-23 23:02:47,388 | INFO | Shard ID None has connected to Gateway (Session ID: 985bce0e5565aa9fd9be24bed7b2ac70).
+2026-10-23 23:02:49,398 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-23 23:03:17,001 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-23 23:03:17,244 | INFO | Listo. El bot ya esta operando.
+2026-10-23 23:03:23,710 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-23 23:03:24,720 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-23 23:03:25,253 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 23:03:25,253 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-23 23:03:25,253 | INFO | Mantenimiento automatico cada 300 s
+2026-10-23 23:08:26,713 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 23:13:28,215 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 23:13:50,261 | INFO | yuul06 verificado -> rol '-'
+2026-10-23 23:18:29,703 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-23 23:23:34,743 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 01:34:57,432 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-24 01:34:57,437 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-24 01:34:57,437 | INFO | logging in using static token
+2026-10-24 01:35:00,196 | INFO | Shard ID None has connected to Gateway (Session ID: acd617ea62cf018ebe36e442b1d367bc).
+2026-10-24 01:35:02,256 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-24 01:35:03,287 | INFO | Shard ID None has successfully RESUMED session acd617ea62cf018ebe36e442b1d367bc.
+2026-10-24 01:35:29,477 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-24 01:35:29,737 | INFO | Listo. El bot ya esta operando.
+2026-10-24 01:35:34,511 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-24 01:35:35,322 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-24 01:35:35,882 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 01:35:35,882 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-24 01:35:35,883 | INFO | Mantenimiento automatico cada 300 s
+2026-10-24 01:40:37,183 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 01:45:38,514 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 05:12:00,693 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-24 05:12:00,698 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-24 05:12:00,698 | INFO | logging in using static token
+2026-10-24 05:12:01,781 | INFO | Shard ID None has connected to Gateway (Session ID: 2355d6539c6372f38ce959aed03de084).
+2026-10-24 05:12:03,792 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-24 05:12:31,355 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-24 05:12:31,576 | INFO | Listo. El bot ya esta operando.
+2026-10-24 05:12:41,071 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-24 05:12:41,804 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-24 05:12:42,405 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 05:12:42,405 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-24 05:12:42,405 | INFO | Mantenimiento automatico cada 300 s
+2026-10-24 05:17:43,904 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 05:22:45,265 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 05:27:46,620 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 05:29:21,001 | INFO | Ticket abierto por 93.xepf -> 🎫-errores-93xepf
+2026-10-24 05:32:47,873 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 05:37:49,114 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 05:42:50,564 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 05:45:47,205 | INFO | Stream publicado por 93.xepf en #👾┋sᴛʀᴇᴀᴍs: asdasd
+2026-10-24 05:47:52,290 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 05:52:53,621 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-24 05:57:55,956 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 22:32:24,241 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-30 22:32:24,246 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-30 22:32:24,246 | INFO | logging in using static token
+2026-10-30 22:32:24,987 | INFO | Relojes por pais cada 300 s
+2026-10-30 22:32:25,421 | INFO | Shard ID None has connected to Gateway (Session ID: 3b6b92f617625eb987fcaeff427384c7).
+2026-10-30 22:32:27,430 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)
+2026-10-30 22:32:54,985 | INFO | Vigilando #⛓️┋ɴᴏ-ʜᴀᴃʟᴀʀ (1558869299899146310) en 𝙏𝙝𝙚 𝙘𝙖𝙥𝙞𝙗𝙖𝙧𝙖  𝙭 𝙈𝙚𝙭𝙖𝙘𝙧𝙖𝙛𝙩
+2026-10-30 22:32:55,203 | INFO | Listo. El bot ya esta operando.
+2026-10-30 22:33:00,444 | INFO | Puertas aplicadas en 9 categorias (3 publicas)
+2026-10-30 22:33:01,377 | INFO | Panel de verificacion actualizado en #✅┋ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ
+2026-10-30 22:33:01,853 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 22:33:01,854 | INFO | Barrido automatico cada 300 s (borra lo de mas de 30 min)
+2026-10-30 22:33:01,854 | INFO | Mantenimiento automatico cada 300 s
+2026-10-30 22:37:38,409 | WARNING | We are being rate limited. POST https://discord.com/api/v10/channels/1558544518658400337/messages responded with 429. Retrying in 0.66 seconds.
+2026-10-30 22:38:04,078 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 22:43:05,454 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 22:48:06,847 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 22:53:08,204 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 22:58:10,038 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 23:03:11,336 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 23:08:12,753 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 23:12:50,700 | WARNING | We are being rate limited. POST https://discord.com/api/v10/channels/1558544518658400337/messages responded with 429. Retrying in 0.30 seconds.
+2026-10-30 23:13:14,148 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 23:18:15,565 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 23:23:16,999 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 23:28:18,278 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 23:32:57,530 | WARNING | We are being rate limited. POST https://discord.com/api/v10/channels/1558544518658400337/messages responded with 429. Retrying in 0.46 seconds.
+2026-10-30 23:33:19,677 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-30 23:38:21,028 | INFO | Panel de tickets actualizado en #🎫┋ᴀᴃʀɪʀ-ᴛɪᴄᴋᴇᴛ
+2026-10-31 01:11:16,293 | WARNING | davey is not installed, voice will NOT be supported
+2026-10-31 01:11:16,303 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-10-31 01:11:16,303 | INFO | logging in using static token
+2026-10-31 01:11:16,933 | INFO | Relojes por pais cada 300 s
+2026-10-31 01:11:17,424 | INFO | Shard ID None has connected to Gateway (Session ID: 884381647343f66748aa7010d751d823).
+2026-10-31 01:11:19,444 | INFO | Conectado como The capibara#1845 (id 1558474431150424168)

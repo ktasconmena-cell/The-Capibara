@@ -1,0 +1,320 @@
+[2026-10-11 18:53:40] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-11 18:53:40] [INFO    ] discord.client: logging in using static token
+[2026-10-11 18:53:41] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 3d78da2fe2fad817e536646f856604ae).
+[2026-10-11 22:48:19] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 3d78da2fe2fad817e536646f856604ae.
+[2026-10-11 23:24:58] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 3d78da2fe2fad817e536646f856604ae.
+[2026-10-12 00:30:43] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 3d78da2fe2fad817e536646f856604ae.
+[2026-10-21 19:52:45] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-21 19:52:45] [INFO    ] discord.client: logging in using static token
+[2026-10-21 19:52:46] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 40e615b31a6e196b784079c5f6b12a16).
+[2026-10-21 19:55:43] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-21 19:55:43] [INFO    ] discord.client: logging in using static token
+[2026-10-21 19:55:44] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: b39c7a3865a81ed678d2fa9457209ef9).
+[2026-10-21 20:06:16] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-21 20:06:16] [INFO    ] discord.client: logging in using static token
+[2026-10-21 20:06:17] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 9fc434bf1ab0be7d6eb2350be09ecd85).
+[2026-10-21 21:40:05] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 9fc434bf1ab0be7d6eb2350be09ecd85.
+[2026-10-22 15:57:44] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-22 15:57:44] [INFO    ] discord.client: logging in using static token
+[2026-10-22 15:57:45] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: f73693483bf8a9b3219c7005ac1e8815).
+[2026-10-23 08:29:09] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-23 08:29:09] [INFO    ] discord.client: logging in using static token
+[2026-10-23 08:29:11] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 0eb735fd15b90a061b93a39940b0b263).
+[2026-10-23 08:29:42] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 0eb735fd15b90a061b93a39940b0b263.
+[2026-10-23 08:30:18] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 0eb735fd15b90a061b93a39940b0b263.
+[2026-10-23 16:16:34] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-23 16:16:34] [INFO    ] discord.client: logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1301, in _wrap_create_connection
+    sock = await aiohappyeyeballs.start_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohappyeyeballs\impl.py", line 124, in start_connection
+    raise first_exception
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohappyeyeballs\impl.py", line 75, in start_connection
+    sock = await _connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohappyeyeballs\impl.py", line 210, in _connect_sock
+    await loop.sock_connect(sock, address)
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 729, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_events.py", line 803, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_events.py", line 599, in finish_connect
+    ov.getresult()
+PermissionError: [WinError 5] Acceso denegado
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 1822, in <module>
+    main()
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 1814, in main
+    bot.run(TOKEN)
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 691, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\client.py", line 681, in login
+    self._application = await self.application_info()
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\client.py", line 2644, in application_info
+    data = await self.http.application_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\http.py", line 659, in request
+    async with self.__session.request(method, url, **kwargs) as response:
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\client.py", line 1693, in __aenter__
+    self._resp: _RetType_co = await self._coro
+                              ^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\client.py", line 858, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\client.py", line 812, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 657, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1242, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1620, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1589, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1324, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discord.com:443 ssl:default [Acceso denegado]
+[2026-10-23 16:16:42] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-23 16:16:42] [INFO    ] discord.client: logging in using static token
+[2026-10-23 16:16:44] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: c2ddae6f4f8d881678c23940442c3623).
+[2026-10-23 16:17:01] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session c2ddae6f4f8d881678c23940442c3623.
+[2026-10-23 21:45:14] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-23 21:45:14] [INFO    ] discord.client: logging in using static token
+Traceback (most recent call last):
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1301, in _wrap_create_connection
+    sock = await aiohappyeyeballs.start_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohappyeyeballs\impl.py", line 124, in start_connection
+    raise first_exception
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohappyeyeballs\impl.py", line 75, in start_connection
+    sock = await _connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohappyeyeballs\impl.py", line 210, in _connect_sock
+    await loop.sock_connect(sock, address)
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 729, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_events.py", line 803, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_events.py", line 599, in finish_connect
+    ov.getresult()
+PermissionError: [WinError 5] Acceso denegado
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 1822, in <module>
+    main()
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 1814, in main
+    bot.run(TOKEN)
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 691, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\http.py", line 659, in request
+    async with self.__session.request(method, url, **kwargs) as response:
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\client.py", line 1693, in __aenter__
+    self._resp: _RetType_co = await self._coro
+                              ^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\client.py", line 858, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\client.py", line 812, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 657, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1242, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1620, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1589, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiohttp\connector.py", line 1324, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discord.com:443 ssl:default [Acceso denegado]
+[2026-10-23 21:45:21] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-23 21:45:21] [INFO    ] discord.client: logging in using static token
+[2026-10-23 21:45:23] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: cc08fb91cf76dc27cf2e2ecbf54e8fe6).
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 24, in <module>
+    from discord import app_commands
+ImportError: cannot import name 'app_commands' from 'discord' (C:\Users\ktasc\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\__init__.py)
+[2026-10-23 23:02:46] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-23 23:02:46] [INFO    ] discord.client: logging in using static token
+[2026-10-23 23:02:47] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 985bce0e5565aa9fd9be24bed7b2ac70).
+[2026-10-24 01:34:57] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-24 01:34:57] [INFO    ] discord.client: logging in using static token
+[2026-10-24 01:35:00] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: acd617ea62cf018ebe36e442b1d367bc).
+[2026-10-24 01:35:03] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session acd617ea62cf018ebe36e442b1d367bc.
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 23, in <module>
+    import discord
+ModuleNotFoundError: No module named 'discord'
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 23, in <module>
+    import discord
+ModuleNotFoundError: No module named 'discord'
+Traceback (most recent call last):
+  File "C:\Users\ktasc\Documents\Default Project\The Capibara Bot\bot.py", line 23, in <module>
+    import discord
+ModuleNotFoundError: No module named 'discord'
+[2026-10-24 05:12:00] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-24 05:12:00] [INFO    ] discord.client: logging in using static token
+[2026-10-24 05:12:01] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 2355d6539c6372f38ce959aed03de084).
+[2026-10-30 22:32:24] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-30 22:32:24] [INFO    ] discord.client: logging in using static token
+[2026-10-30 22:32:25] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 3b6b92f617625eb987fcaeff427384c7).
+[2026-10-30 22:37:38] [WARNING ] discord.http: We are being rate limited. POST https://discord.com/api/v10/channels/1558544518658400337/messages responded with 429. Retrying in 0.66 seconds.
+[2026-10-30 23:12:50] [WARNING ] discord.http: We are being rate limited. POST https://discord.com/api/v10/channels/1558544518658400337/messages responded with 429. Retrying in 0.30 seconds.
+[2026-10-30 23:32:57] [WARNING ] discord.http: We are being rate limited. POST https://discord.com/api/v10/channels/1558544518658400337/messages responded with 429. Retrying in 0.46 seconds.
+[2026-10-31 01:11:16] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2026-10-31 01:11:16] [INFO    ] discord.client: logging in using static token
+[2026-10-31 01:11:17] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 884381647343f66748aa7010d751d823).

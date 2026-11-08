@@ -1,0 +1,71 @@
+====================================================
+  COMO AÑADIR "THE CAPIBARA" A TU SERVIDOR
+====================================================
+
+El bot ya esta EN MARCHA en este PC, pero todavia no esta
+en tu servidor. Hay que invitarlo UNA vez por esta pagina:
+
+  --------------------------------------------------
+  COPIA ESTE ENLACE Y PEGALO EN EL NAVEGADOR
+  --------------------------------------------------
+
+https://discord.com/oauth2/authorize?client_id=1558474431150424168&permissions=1099511704576&scope=bot%20applications.commands
+
+  --------------------------------------------------
+
+PASOS
+
+1. Abre el enlace de arriba.
+
+2. Abajo a la derecha aparecera el servidor. Elige el tuyo.
+   (Si no sale, el bot no puede entrar: en Invitaciones ->
+    "Permitir" debe estar activado en el Developer Portal.)
+
+3. Pulsa "Autorizar" y acepta el captcha.
+
+4. Discord te llevara de vuelta a tu servidor. Acepta el
+   "Capibara quiere entrar".
+
+5. Ajustes del servidor -> Roles -> arrastra el rol
+   "The capibara" hasta ARRIBA de todo, por encima de los
+   usuarios. Esto es OBLIGATORIO: si el bot esta por debajo,
+   no puede aislar a nadie.
+
+6. Listo. El bot se conecta solo en unos 30 segundos y lo
+   dice en el log con: "Vigilando #... y Listo."
+
+7. En el servidor escribe /estado para comprobar que todo
+   esta bien.
+
+
+QUE PERMISOS LE PIDE ESA URL
+----------------------------
+permissions=1099511704576 son exactamente estos 5:
+
+  Ver canal                 (necesario)
+  Leer historial de mensajes(necesario para medir la antiguedad)
+  Enviar mensajes           (innecesario aqui, pero harmless)
+  Gestionar mensajes        (para BORRAR los mensajes viejos)
+  Moderar miembros          (para AISLAR con timeout)
+
+Los permisos narrowed salen ya marcados en la pagina de
+autorizacion: no los cambies.
+
+
+SI ALGO FALLA
+-------------
+- "No se encuentra el bot": activa Invitaciones -> Permitir
+  en https://discord.com/developers/applications
+- "/estado" dice que no puede aislar: sube el rol del bot en
+  Ajustes -> Roles.
+- Aislar a alguien no hace nada: los administradores y el
+  dueño del servidor no se pueden aislar (Discord lo prohibe).
+
+
+PARA DETENER EL BOT
+-------------------
+Cierra el proceso python. O desde una consola:
+
+  Get-Process python | Where-Object {$_.Id -eq 9820} | Stop-Process
+
+Y para volver a arrancarlo: doble clic en iniciar.bat
